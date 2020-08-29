@@ -1,6 +1,6 @@
 # Center-Management-System
 
-![메인화면](https://user-images.githubusercontent.com/66079830/85929121-3853d700-b8ed-11ea-86a3-cd290f643cb7.jpg)
+![메인화면]<img src = "https://user-images.githubusercontent.com/66079830/85929121-3853d700-b8ed-11ea-86a3-cd290f643cb7.jpg" width="600px" height="600px">
 
 ### 👋 Introduction
 
