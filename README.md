@@ -1,5 +1,75 @@
 # Center-Management-System
 
+![메인화면](https://user-images.githubusercontent.com/66079830/85929121-3853d700-b8ed-11ea-86a3-cd290f643cb7.jpg)
+
+### 👋 Introduction
+
+<table>
+    <tr>
+        <th>프로젝트명</th>
+        <th>Center-Management-System</th>
+        <th>개발 기간</th>
+        <th>2020.05.13. ~ 2020.05.19.</th>
+    </tr>
+    <tr>
+        <th>프로젝트 성격</th>
+        <th>세미 프로젝트</th>
+        <th>개발 인원</th>
+        <th>팀 / 5명<br>
+          (<a href="https://github.com/ithansiyeon">한시연</a>,
+             홍준표,
+            장정우,
+            최현동,
+            유민정)
+      </th>
+    </tr>
+      <tr>
+        <th>프로젝트 개요</th>
+        <th> 학원 회원 관리 시스템 프로그램</th>
+        <th>개발 환경</th>
+        <th>Windows10</th>
+    </tr>
+    <tr>
+        <th colspan="5">사용 도구</th>
+    </tr>  
+    <tr>
+        <th>개발언어</th>
+        <th colspan="3">Java(JDK 1.8) </th>
+    </tr>
+    <tr>
+        <th>형상관리</th>
+        <th colspan="3">Github, Git , Source Tree</th>
+    </tr>
+    <tr>
+        <th>개발도구</th>
+        <th colspan="3">Eclipse IDE</th>
+    </tr>
+</table>
+
+### 📼 Appearance
+
+자바 콘솔로 구현한 학원 회원 관리시스템 프로그램 입니다.
+
+<table>
+    <tr>
+        <th colspan="4">Task</th>
+    </tr>
+    <tr>
+        <th colspan="4"><img width="600" src="https://user-images.githubusercontent.com/66079830/85919690-a5914900-b8a8-11ea-9849-4d3ca500813f.jpg"></th>
+    </tr>
+    <tr>
+       <th>Student</th>
+       <th>Teacher</th>
+       <th>Admin</th>
+       <th>Nonmember</th>
+    </tr>
+    <tr>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919533-d07a9d80-b8a6-11ea-9a55-1b68ef6d5939.gif"></th>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919538-e5efc780-b8a6-11ea-8422-4c1a38a741e0.gif"></th>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919479-5d712700-b8a6-11ea-9043-8ddb87532e19.gif"></th>
+        <th><img width="266" src="https://user-images.githubusercontent.com/66079830/85919534-d7091500-b8a6-11ea-85b3-149d091c8e5d.gif"></th>
+    </tr>
+</table>
 
 <table>
     <tr>
@@ -56,6 +126,6 @@
         <th>비회원,<br>관리자,<br>수강생 부분 개발,<br> 문서작업,<br> 의견제안</th>
         <th>회원 가입 부분 개발,<br> 문서작업,<br> 소스취합,<br> 버그수정</th>
         <th>관리자 부분 개발,<br> 의견제안,<br> 버그수정</th>
-
     </tr>
 </table>
+
