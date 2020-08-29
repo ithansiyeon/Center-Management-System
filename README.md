@@ -46,6 +46,9 @@
     </tr>
 </table>
 
+### Study
+<img src = "https://user-images.githubusercontent.com/66079830/85929643-8ec31480-b8f1-11ea-834c-e9295cb8d1df.png" width="500px"><img src = "https://user-images.githubusercontent.com/66079830/85929588-12c8cc80-b8f1-11ea-9945-2e34ca58ef98.jpg" width="500px">
+
 ### 📼 Appearance
 
 자바 콘솔로 구현한 학원 회원 관리시스템 프로그램 입니다.
