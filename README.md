@@ -1,5 +1,5 @@
 # :office: Center-Management-System
-![메인화면](https://user-images.githubusercontent.com/66079830/85929121-3853d700-b8ed-11ea-86a3-cd290f643cb7.jpg)
+![메인화면](https://user-images.githubusercontent.com/66079830/91664065-a2743c80-eb27-11ea-974a-c84c51c554e8.png)
 
 ### 👋 Introduction
 
