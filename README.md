@@ -24,9 +24,7 @@
     </tr>
       <tr>
         <th>프로젝트 개요</th>
-        <th> 학원 회원 관리 시스템 프로그램</th>
-        <th>개발 환경</th>
-        <th>Windows10</th>
+        <th colspan="3"> 학원 회원 관리 시스템 프로그램</th>
     </tr>
     <tr>
         <th colspan="5">사용 도구</th>
