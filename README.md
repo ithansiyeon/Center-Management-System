@@ -132,3 +132,15 @@
     </tr>
 </table>
 
+### :mega: 프로젝트 소감
+
+<table style="width:500px;">
+    <tr>
+        <th>한시연</th>
+    </tr>
+    <tr>
+        <td>
+           컬렉션 중 ArrayList와 HashMap을 사용해서 더미를 만들고 이를 이용해 구현하는 점에서 어려움이 있었지만, 프로젝트를 통해서 실력을 향상시킬 수 있었습니다.
+        </td>
+    </tr>
+</table>
