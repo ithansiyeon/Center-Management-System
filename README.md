@@ -1,4 +1,4 @@
-# :office: Center-Management-System
+# :office: center-management-system
 ![메인화면](https://user-images.githubusercontent.com/66079830/91664065-a2743c80-eb27-11ea-974a-c84c51c554e8.png)
 
 ### 👋 Introduction
